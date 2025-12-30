@@ -34,6 +34,11 @@ The focus of the project is data-driven grid logic, object placement validation,
 - Visual feedback for placement validity
 - Dynamic preview updates based on structure footprint and rotation
 
+## Showcase
+
+![PreviewBuildingSystem](PreviewBuildingSystem.gif)
+
+
 ## Technical Highlights
 
 ### C# / Unity
