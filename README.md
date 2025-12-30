@@ -1,4 +1,4 @@
-#Grid-based building system
+# Grid-based building system
 
 Work-in-progress prototype of a grid-based building system for my tower defense game 
 
