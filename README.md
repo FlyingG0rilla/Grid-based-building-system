@@ -10,9 +10,9 @@ The focus of the project is data-driven grid logic, object placement validation,
 ## Core features
 
 ### Logical tile grid system
-- Custom Tile management system build on top of Unity´s build-in ´´´ Grid ´´´ commponent
-- Each Grid cell is represented by a <GameTile> data object
-- Tiles are stored in a Dictionary with <Vector3Int> as key value and <GameTile> as return type
+- Custom Tile management system build on top of Unity´s build-in ``` Grid ``` commponent
+- Each Grid cell is represented by a ``` GameTile ``` data object
+- Tiles are stored in a Dictionary with ``` Vector3Int ``` as key value and ``` GameTile ``` as return type
 - Individual tiles track:
     - Local grid position
     - Global world position
@@ -42,7 +42,7 @@ The focus of the project is data-driven grid logic, object placement validation,
 - Grid bases coordinates conversion (world to cell)
 
 ### Data Structures
-- Dictionary-based spatial indexing for fast tile lookup, instead of Unity´s build in Tilemap
+- Dictionary-based spatial indexing for fast tile lookup, instead of Unity´s build in ``` Tilemap ```
 - Seperation of tille logic from Unity scene
 - Clean ownership of global grid state via singelton pattern
 
