@@ -56,7 +56,7 @@ The focus of the project is data-driven grid logic, object placement validation,
 - Extensible tile metadata system
 
 
-> ** Note:**
+> ** Note: **
 > All code in this project was written by me without the use of advanced language models.
 > Language models were only used for spelling and grammar review of this README.
 > You are free to use this code as you wish; however, please note that this is a work-in-progress prototype and may require adaptation for different use cases or production environments
