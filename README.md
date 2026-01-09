@@ -36,7 +36,7 @@ The focus of the project is data-driven grid logic, object placement validation,
 
 ## Showcase
 
-![PreviewBuildingSystem](PreviewBuildingSystem.gif)
+![PreviewBuildingSystem] (PreviewBuildingSystem.gif)
 
 
 ## Technical Highlights
